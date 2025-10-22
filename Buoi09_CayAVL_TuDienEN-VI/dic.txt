@@ -1,0 +1,25 @@
+Grandpa: Ong, ong noi, ong ngoai
+Daughter-in-law: Con dau
+Brother: Anh trai, em trai
+Book: Sanh, quyen sach, cuon sach
+Aunt: Co, di, thim
+Cousin: Anh em ho, chi em ho
+Computer: May tinh, may vi tin
+Good morning: Chao buoi sang
+Ex: Nguoi yeu cu, nguoi tinh cu, nguoi da chia ta
+Egg: Trung, qua trung, cai trung
+Father: Cha, ba, bo, baba
+Grandma: Ba, ba noi, ba ngoai
+Mother: Me, ma
+Hug: Om, Au yem
+Hello: Chao, xin chao
+Love: Yeu, Thuong
+Teacher: Thay giao, co giao, giao vien
+Sister: Chi gai, em gai
+Uncle: Bac, ch
+Good moring: Chao buoi sang
+Friend: Ban, ban be
+Dog: Cho, cun
+Cat: Meo, con meo
+Fish: Ca, con ca
+Bird: Chim, con chim

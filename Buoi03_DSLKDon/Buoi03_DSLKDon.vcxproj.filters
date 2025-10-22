@@ -1,0 +1,34 @@
+y:
+
+        test.relaxTiming=true
+
+ 8. It is known that some platforms (e.g. OSX El Capitan) require IPv4 to
+    be the default for the multicast tests to work. This is configured by
+    the following property:
+
+        java.net.preferIPv4Stack=true
+
+ 9. It is possible to control whether the output of the tests is displayed
+    on the console or not. By default it is displayed and can be disabled
+    by the following property:
+
+        test.verbose=true
+
+(8) Source code checks
+
+(8.1) Checkstyle
+
+* NOTE: Checkstyle is licensed under LGPL. Using Checkstyle during Tomcat
+  build is optional and is off by default.
+
+      See http://checkstyle.sourceforge.net/ for more information.
+
+Tomcat comes with a Checkstyle configuration that tests its source code
+for certain conventions, like presence of the license header.
+
+To enable Checkstyle, add the following property to build.properties file:
+
+    execute.validate=true
+
+Once Checkstyle is enabled, the check will be performed automatically
+during the build. The check is run before compil
